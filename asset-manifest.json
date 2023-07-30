@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Vivek0029/Note-App-React.js/static/css/main.eaafb4bc.css",
+    "main.js": "/Vivek0029/Note-App-React.js/static/js/main.004aea13.js",
+    "static/media/bg.jpg": "/Vivek0029/Note-App-React.js/static/media/bg.a7204a16d46adaf6f6e4.jpg",
+    "index.html": "/Vivek0029/Note-App-React.js/index.html",
+    "main.eaafb4bc.css.map": "/Vivek0029/Note-App-React.js/static/css/main.eaafb4bc.css.map",
+    "main.004aea13.js.map": "/Vivek0029/Note-App-React.js/static/js/main.004aea13.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eaafb4bc.css",
+    "static/js/main.004aea13.js"
+  ]
+}
